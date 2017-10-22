@@ -16,12 +16,13 @@
 <style>
     .panel-body {
         font-family: 'Arial';
-        font-size:24px;
+        font-size:14px;
         color:#6e6e6e;
     }
     
     .quote {
         cursor: pointer;
+        word-wrap: break-word;
     }
     
     .quote:hover{
